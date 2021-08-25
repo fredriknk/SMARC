@@ -1,0 +1,1 @@
+Pinout for generic SMARC SBC computer 
