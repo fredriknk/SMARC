@@ -1,1 +1,1 @@
-Pinout for generic SMARC SBC computer 
+Pinout for making footprint for generic SMARC SBC computer 
